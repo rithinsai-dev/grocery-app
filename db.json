@@ -1,0 +1,185 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "price": 165.17,
+      "image": "apple.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Banana",
+      "price": 82.17,
+      "image": "banana.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Carrot",
+      "price": 207.07,
+      "image": "carrot.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Grapes",
+      "price": 331.17,
+      "image": "grapes.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Tomato",
+      "price": 123.67,
+      "image": "Tomato.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Potato",
+      "price": 65.57,
+      "image": "Potato.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Cucumber",
+      "price": 107.11,
+      "image": "Cucumber.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Orange",
+      "price": 249.17,
+      "image": "Orange.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Pineapple",
+      "price": 414.17,
+      "image": "Pineapple.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Lettuce",
+      "price": 140.27,
+      "image": "Lettuce.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Strawberry",
+      "price": 456.67,
+      "image": "Strawberry.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Peach",
+      "price": 290.67,
+      "image": "Peach.jpg"
+    },
+    {
+      "id": "13",
+      "name": "Lemon",
+      "price": 165.17,
+      "image": "Lemon.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Mango",
+      "price": 207.07,
+      "image": "Mango.jpg"
+    },
+    {
+      "id": "15",
+      "name": "Blueberry",
+      "price": 373.67,
+      "image": "Blueberry.jpg"
+    },
+    {
+      "id": "16",
+      "name": "Watermelon",
+      "price": 581.17,
+      "image": "Watermelon.jpg"
+    },
+    {
+      "id": "17",
+      "name": "Broccoli",
+      "price": 231.67,
+      "image": "Broccoli.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Avocado",
+      "price": 165.17,
+      "image": "Avocado.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Spinach",
+      "price": 107.11,
+      "image": "Spinach.jpg"
+    },
+    {
+      "id": "20",
+      "name": "Cabbage",
+      "price": 82.17,
+      "image": "Cabbage.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Zucchini",
+      "price": 157.87,
+      "image": "Zucchini.jpg"
+    },
+    {
+      "id": "22",
+      "name": "Eggplant",
+      "price": 190.07,
+      "image": "Eggplant.jpg"
+    },
+    {
+      "id": "23",
+      "name": "Chili Pepper",
+      "price": 290.67,
+      "image": "Pepper.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Pumpkin",
+      "price": 414.17,
+      "image": "Pumpkin.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Bell Pepper",
+      "price": 249.17,
+      "image": "Bell Pepper.jpg"
+    },
+    {
+      "id": "26",
+      "name": "Cauliflower",
+      "price": 223.27,
+      "image": "Cauliflower.jpg"
+    },
+    {
+      "id": "27",
+      "name": "Radish",
+      "price": 148.67,
+      "image": "Radish.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Chard",
+      "price": 273.07,
+      "image": "Chard.jpg"
+    },
+    {
+      "id": "29",
+      "name": "Milk",
+      "price": 27.07,
+      "image": "milk.jpg"
+    },
+    {
+      "id": "30",
+      "name": "chocolate",
+      "price": 27.07,
+      "image": "chocolate.jpg"
+    }
+  ],
+  "cart": []
+}
